@@ -1,0 +1,7 @@
+{
+  "inputs": {
+    "Lemmatizer_data": [
+      "sample text for testing"
+    ]
+  }
+}

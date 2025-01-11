@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1736619495934
+current_stage: None
+description: null
+last_updated_timestamp: 1736619495934
+name: RidgeClassifierPipeline
+run_id: 58702fd75e4043be9da9facd8ad851e7
+run_link: null
+source: file:///C:/Users/asus0/Desktop/qafza/Project/MLflow/mlruns/768533919229187838/58702fd75e4043be9da9facd8ad851e7/artifacts/ridge_pipeline
+status: READY
+status_message: null
+storage_location: file:///C:/Users/asus0/Desktop/qafza/Project/MLflow/mlruns/768533919229187838/58702fd75e4043be9da9facd8ad851e7/artifacts/ridge_pipeline
+user_id: null
+version: 1
